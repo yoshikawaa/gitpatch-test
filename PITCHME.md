@@ -1,14 +1,14 @@
-### Test
+### Home
 1st Slide!
 ---
-### Right 2nd
+### 2nd
 2nd Slide!
 +++
-### Down 2nd
-2nd Slide!
+### 2nd 1Down
+2nd-1Down Slide!
 +++
-### Up 2nd
-2nd Slide!
+### dnd 2Down
+2nd-2Down Slide!
 ---
 ### 3rd
 3rd Slide!
