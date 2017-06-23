@@ -13,6 +13,5 @@
 ### 3rd
 3rd Slide!
 ---
-### Code Sample
 ---?code=codes/sample.java
 Oh... `NullPointerException`!
