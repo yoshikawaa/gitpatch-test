@@ -7,7 +7,7 @@
 ### 2nd 1Down
 2nd-1Down Slide!
 +++
-### dnd 2Down
+### 2nd 2Down
 2nd-2Down Slide!
 ---
 ### 3rd
