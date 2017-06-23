@@ -1,5 +1,3 @@
-# gitpatch-test
-
 ### こんにちは！
 
 
