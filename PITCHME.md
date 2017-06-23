@@ -15,5 +15,4 @@
 ---
 ### Code Sample
 ---?code=codes/sample.java
-
 Oh... `NullPointerException`!
